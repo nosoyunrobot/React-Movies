@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://nosoyunrobot.github.io/React-List-Movies",
+  "homepage": "http://nosoyunrobot.github.io/React-Movies",
   "dependencies": {
     "@primer/octicons-react": "^17.0.0",
     "@testing-library/jest-dom": "^5.16.2",
