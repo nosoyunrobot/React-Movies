@@ -1,0 +1,21 @@
+.movieCard {
+  list-style: none;
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+.moviewImage {
+  border-radius: 13px;
+  cursor: pointer;
+}
+
+@media (max-width: 560px) {
+    .moviewImage {
+        width: 90%;
+        height: auto;
+    }
+}
+
+.moviewImage:hover{
+  
+}
